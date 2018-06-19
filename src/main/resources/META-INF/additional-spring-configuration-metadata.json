@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "alfaorders.",
+      "type": "java.lang.String",
+      "description": "Description for alfaorders.."
+    },
+    {
+      "name": "alfaorders.dictionaries.defaultValues.mobilePhoneCode",
+      "type": "java.lang.String",
+      "description": "Description for alfaorders.dictionaries.defaultValues.mobilePhoneCode."
+    },
+    {
+      "name": "alfaorders.dictionaries.defaultValues.registrationAddressCode",
+      "type": "java.lang.String",
+      "description": "Description for alfaorders.dictionaries.defaultValues.registrationAddressCode."
+    },
+    {
+      "name": "alfaorders.dictionaries.defaultValues.addressTypeDictName",
+      "type": "java.lang.String",
+      "description": "Description for alfaorders.dictionaries.defaultValues.addressTypeDictName."
+    },
+    {
+      "name": "alfaorders.dictionaries.defaultValues.phoneTypeDictName",
+      "type": "java.lang.String",
+      "description": "Description for alfaorders.dictionaries.defaultValues.phoneTypeDictName."
+    }
+  ] }

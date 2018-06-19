@@ -1,0 +1,6 @@
+projectKey=my:ALFA-ORDERS-BPM
+serverUrl=http://192.168.8.103:9000
+serverVersion=6.7.3.38370
+dashboardUrl=http://192.168.8.103:9000/dashboard/index/my:ALFA-ORDERS-BPM
+ceTaskId=AWLTMcT3U53JmDCDri8m
+ceTaskUrl=http://192.168.8.103:9000/api/ce/task?id=AWLTMcT3U53JmDCDri8m
